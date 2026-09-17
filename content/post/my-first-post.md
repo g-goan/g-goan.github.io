@@ -1,7 +1,7 @@
 ---
 title: "The Lost Art of Doing Nothing"
 date: 2026-09-05
-description: "In a world that never stops demanding out attention, what happens when we deliberately do nothing?"
+description: "In a world that never stops demanding our attention, what happens when we deliberately do nothing?"
 ---
 
 # The Art of Doing Nothing
